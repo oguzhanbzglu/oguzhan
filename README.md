@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/github/followers/oguzhanbzglu?style=social">
 </p>
 
-- 🔋 I am an Mechanical Engineer.
+- 🔋 I am a Mechanical Engineer.
 - 🦾 I’m currently doing my Erasmus internship in Italy, University of Bolzano - NOI Techpark. It is about ROS and Autonomous Car. 
 
 <h2 align="center">🔓 Stack</h2>
 
 ### 🐍  **Python Stack**
 - Visualization: Matplotlib, Seaborn
-- Machine Learning: TensorFlow, Scikit-learn, Scikit-Multilearn
+- Machine Learning: TensorFlow, Scikit-learn, PyTorch
 - Data Science: Pandas, Numpy
 - ROS (Robot Operating System)
 
