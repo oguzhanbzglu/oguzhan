@@ -31,7 +31,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbzglu&layout=compact&langs_count=16&theme=react"/></div></p>
 
 
-<h2 align="center">👩‍💻 IDEs & Code Editor:</h2>
+<h2 align="center">IDEs & Code Editor:</h2>
 
 <p align="center"> 
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="matlab" width="40" height="40"/> </a> 
