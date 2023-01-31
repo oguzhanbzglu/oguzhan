@@ -1,45 +1,54 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <title>GitHub Repository Main Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Github Main Page</title>
+    <style>
+      /* Add some style to make the page look nice */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 50px auto;
+        background-color: white;
+        padding: 30px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 36px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+
+      p {
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+
+      a {
+        display: inline-block;
+        background-color: #333;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        margin-top: 20px;
+      }
+    </style>
   </head>
   <body>
-    <header>
-      <h1>Welcome to my GitHub Repository</h1>
-    </header>
-    <nav>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-    <main>
-      <section id="about">
-        <h2>About</h2>
-        <p>This repository is a place for me to share my projects and collaborate with others. I am constantly learning and growing as a developer, and I believe that open-source projects are an excellent way to do so.</p>
-      </section>
-      <section id="features">
-        <h2>Features</h2>
-        <ul>
-          <li>Project A</li>
-          <li>Project B</li>
-          <li>Project C</li>
-        </ul>
-      </section>
-      <section id="contributing">
-        <h2>Contributing</h2>
-        <p>I am always looking for contributions to my projects. If you are interested in contributing, please take a look at the guidelines in the repository's README file.</p>
-      </section>
-      <section id="contact">
-        <h2>Contact</h2>
-        <p>If you have any questions or suggestions, feel free to send me a message on GitHub or reach out to me at [email address].</p>
-      </section>
-    </main>
-    <footer>
-      <p>&copy; [Oguzhan] [2023]</p>
-    </footer>
+    <div class="container">
+      <h1>Welcome to My Github Page</h1>
+      <p>This is a sample Github main page where you can showcase your projects and profile information.</p>
+      <a href="#">Learn More</a>
+    </div>
   </body>
 </html>
