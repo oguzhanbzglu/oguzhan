@@ -1,58 +1,59 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My Github Page</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        text-align: center;
-        padding: 20px;
-      }
-
-      h1 {
-        font-size: 2em;
-        margin-bottom: 10px;
-      }
-
-      .container {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 20px auto;
-        max-width: 600px;
-      }
-
-      .box {
-        width: 200px;
-        height: 200px;
-        border: 2px solid #333;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 10px;
-      }
-
-      .emoji {
-        font-size: 4em;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>🚀 Welcome to My Github Page 🚀</h1>
-    <div class="container">
-      <div class="box">
-        <p class="emoji">💻</p>
-        <p>Projects</p>
-      </div>
-      <div class="box">
-        <p class="emoji">📝</p>
-        <p>Blogs</p>
-      </div>
-      <div class="box">
-        <p class="emoji">📚</p>
-        <p>Learnings</p>
-      </div>
+<head>
+  <title>My Github Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #F2F2F2;
+      text-align: center;
+    }
+    h1 {
+      font-size: 42px;
+      margin-top: 50px;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .card {
+      background-color: #fff;
+      box-shadow: 0px 0px 10px #BBB;
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 50px;
+    }
+    .card h2 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    .card p {
+      font-size: 18px;
+      line-height: 1.5;
+      color: #666;
+      margin-bottom: 20px;
+    }
+    .btn {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-decoration: none;
+      margin-top: 20px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Github Page</h1>
+  <div class="container">
+    <div class="card">
+      <h2>About Me</h2>
+      <p>Hi! I'm a mechanical engineering student interested in Python, ROS (Robot Operating System), and robots. I also use Solidworks and AutoCAD for modeling and Ansys for analysis of systems.</p>
+      <a href="#" class="btn">Learn More</a>
     </div>
-  </body>
+  </div>
+</body>
 </html>
