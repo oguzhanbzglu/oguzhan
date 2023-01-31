@@ -1,49 +1,45 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=▶▶+Hello!+👋+I'm+Oguzhan+Bozoglu◀&center=true&size=18">
-  </a>
-</h1>
-
-<h2 align="center">Robot Operating System | Artificial Intelligence</h2>
-<h3 align="center">Bachelor Student | Mechanical Engineer</h3>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=oguzhanbzglu&label=Profile%20views&color=8000bf&style=flat" alt="leylatulu"> 
-  <img src="https://img.shields.io/twitter/follow/Imagine4lien?style=social"> 
-  <img src="https://img.shields.io/github/followers/oguzhanbzglu?style=social">
-</p>
-
-- 🔋 I am a Mechanical Engineer.
-- 🦾 I’m currently doing my Erasmus internship in Italy, University of Bolzano - NOI Techpark. It is about ROS and Autonomous Car. 
-
-<h2 align="center">🔓 Stack</h2>
-
-### 🐍  **Python Stack**
-- Visualization: Matplotlib, Seaborn
-- Machine Learning: TensorFlow, Scikit-learn, PyTorch
-- Data Science: Pandas, Numpy
-- ROS (Robot Operating System)
-
-<h2 align="center">👽 GitHub Stats 👽</h2>
-<br>
-<p align="center">
-<a href="https://github.com/oguzhanbzglu">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=oguzhanbzglu&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanbzglu&layout=compact&langs_count=16&theme=react"/></div></p>
-
-
-<h2 align="center">IDEs & Code Editor:</h2>
-
-<p align="center"> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799645-5dbf1f03-2ab8-4899-a7cf-d1bfeb11080e.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179799959-54a24474-b0ef-4e89-8584-0181033fbdeb.png" alt="python" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800198-f2d28bc9-bd6b-465c-bd34-53f271eab436.png" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/53316818/179800518-6f412fad-5507-4e19-ba8b-0e2ae6625de8.png" alt="scikit_learn" width="40" height="40"/> </a></p>
-
-
-  
-<h2 align="center">💬 Connect with me:</h2>
-
-<p align="center">
-<a href="https://twitter.com/Imagine4lien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oguzhanbozoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>GitHub Repository Main Page</title>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to my GitHub Repository</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section id="about">
+        <h2>About</h2>
+        <p>This repository is a place for me to share my projects and collaborate with others. I am constantly learning and growing as a developer, and I believe that open-source projects are an excellent way to do so.</p>
+      </section>
+      <section id="features">
+        <h2>Features</h2>
+        <ul>
+          <li>Project A</li>
+          <li>Project B</li>
+          <li>Project C</li>
+        </ul>
+      </section>
+      <section id="contributing">
+        <h2>Contributing</h2>
+        <p>I am always looking for contributions to my projects. If you are interested in contributing, please take a look at the guidelines in the repository's README file.</p>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>If you have any questions or suggestions, feel free to send me a message on GitHub or reach out to me at [email address].</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; [Oguzhan] [2023]</p>
+    </footer>
+  </body>
+</html>
