@@ -10,13 +10,13 @@ Community lover, data scientist and generative artist. I love to share what I kn
 * ✉️  You can contact me at [oguzhanbzglu@gmail.com](mailto:oguzhanbzglu@gmail.com)
 * 🚀  I'm currently studying at Izmir Democracy University
 * 🧠  I'm learning Robot Operating System (ROS) & Applications
-
+<!-- 
 <a href="https://www.github.com/oguzhanbzglu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/oguzhanbzglu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Imagine4lien" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Imagine4lien?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<!-- 
+
 <a href="http://www.github.com/oguzhanbzglu"><img src="https://github-readme-stats.vercel.app/api?username=oguzhanbzglu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oguzhanbzglu's GitHub stats" /></a>
 -->
 ### Socials
