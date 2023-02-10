@@ -4,7 +4,11 @@ Hi 👋 My name is Oguzhan Bozoglu
 Mechanical Engineering Student | Robotics
 ------------------------------------
 
-Community lover, data scientist and generative artist. I love to share what I know, so I try to provide free data science and machine learning education to everyone on my twitter and youtube channel. I teach at several schools and communities each year. I work as a data scientist at Refik Anadol Studio, where we do great artistic works with my excellent team, and we try to digitize the memories of humanity to immortalize it.
+Hello, I am a mechanical engineering senior student with a passion for robotics and the development of intelligent systems. I have experience with Robot Operating System (ROS) and working on some projects involving robotics and control systems.
+
+My technical skills include proficiency in programming languages such as Python, which I have used for developing various applications in the field of robotics. I have also worked with various hardware platforms, including microcontrollers and single-board computers, and have experience with sensors, actuators, and other components used in robotics systems.
+
+I am constantly looking for opportunities to expand my knowledge and skills in the field of robotics, and am always eager to collaborate with others who share my passion. I am committed to using my technical expertise to contribute to the development of innovative and impactful solutions in the field of robotics.
 
 * 🌍  I'm based in Izmir
 * ✉️  You can contact me at [oguzhanbzglu@gmail.com](mailto:oguzhanbzglu@gmail.com)
