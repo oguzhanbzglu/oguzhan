@@ -8,6 +8,7 @@ Community lover, data scientist and generative artist. I love to share what I kn
 
 * 🌍  I'm based in Izmir
 * ✉️  You can contact me at [oguzhanbzglu@gmail.com](mailto:oguzhanbzglu@gmail.com)
+* 🚀  I'm currently studying at Izmir Democracy University
 * 🧠  I'm learning Robot Operating System (ROS) & Applications
 
 <a href="https://www.github.com/oguzhanbzglu" target="_blank" rel="noreferrer"><img
