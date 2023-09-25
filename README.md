@@ -4,7 +4,7 @@ Hi 👋 My name is Oguzhan Bozoglu
 Mechanical Engineering Student | Robotics
 ------------------------------------
 
-Hello, I am a mechanical engineering senior student with a passion for robotics and the development of intelligent systems. I have experience with Robot Operating System (ROS) and working on some projects involving robotics and control systems.
+Hello, I am a MSc mechanical engineering student with a passion for robotics and the development of intelligent systems. I have experience with Robot Operating System (ROS) and working on some projects involving robotics and control systems.
 
 My technical skills include proficiency in programming languages such as Python, which I have used for developing various applications in the field of robotics. I have also worked with various hardware platforms, including microcontrollers and single-board computers, and have experience with sensors, actuators, and other components used in robotics systems.
 
