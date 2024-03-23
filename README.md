@@ -1,4 +1,4 @@
-Hi 👋 My name is Oguzhan Bozoglu
+Hi 👋 My name is Oguzhan
 =============================
 
 Mechanical Engineering Student | Robotics
