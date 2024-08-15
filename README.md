@@ -1,7 +1,7 @@
 Hi 👋 My name is Oguzhan
 =============================
 
-Mechanical Engineering Student | Robotics
+Mechanical Engineer | Robotics
 ------------------------------------
 
 Hello, I am a MSc mechanical engineering student with a passion for robotics and the development of intelligent systems. I have experience with Robot Operating System (ROS) and working on some projects involving robotics and control systems.
